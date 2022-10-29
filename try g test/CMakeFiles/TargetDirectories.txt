@@ -1,0 +1,3 @@
+/home/jangoo/Desktop/demo/try g test/CMakeFiles/executeTests.dir
+/home/jangoo/Desktop/demo/try g test/CMakeFiles/edit_cache.dir
+/home/jangoo/Desktop/demo/try g test/CMakeFiles/rebuild_cache.dir
